@@ -1,0 +1,12 @@
+.nav{
+    margin: 15px;
+}
+.images{
+    border: black solid 2px;
+    margin: 15px;
+    padding: 15px;
+}
+table,th,td{
+    border:5px solid black;
+    border-collapse: collapse;
+}
